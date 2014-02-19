@@ -1,0 +1,2 @@
+Required Plugin
++ Git Plugin
